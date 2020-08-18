@@ -1,0 +1,38 @@
+{
+  "name": "JAGADVIRAL.com",
+  "short_name": "JAGADVIRAL.com",
+  "start_url": "https://www.jagadviral.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-0eSxHkyQ2Xs/XzwCBm4gS6I/AAAAAAAABHA/0vXBEk_N3EQQTHo1B9gzko4FxN2QszChwCLcBGAsYHQ/s48/icon%2B48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-068YVsLh9jA/XzwCB3-LoQI/AAAAAAAABHE/ENWq1kN1Wc0DYyTLHaWBdM6T0Yv75G-FQCLcBGAsYHQ/s72/icon%2B72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-04pb8dkJfJI/XzwCCRieyEI/AAAAAAAABHI/VZLZhphRWIIaW0V4uJoSwtP16tmYRS4mwCLcBGAsYHQ/s96/icon%2B96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nRCUgwi_Gog/XzwCAmqcjZI/AAAAAAAABGw/DlhgF224dAY9acNXZr5_5HNH2-ho7T5IwCLcBGAsYHQ/s144/icon%2B144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-mrQ0uRy1A9g/XzwCA4vxYZI/AAAAAAAABG4/EdeECYheJVsM0OiJvnf2XYzD1SHSZh0NQCLcBGAsYHQ/s168/icon%2B168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-a5ihKcsUgBk/XzwCA9Rcd6I/AAAAAAAABG0/I34U6QGsj14APsdcLlwTEXzCvS8a9rGGwCLcBGAsYHQ/s192/icon%2B192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--8Bhks91xcU/XzwCBlkBr_I/AAAAAAAABG8/EuNj42E8ivUw4p6tR4BYLxaXjITCGaDVwCLcBGAsYHQ/s512/icon%2B512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
